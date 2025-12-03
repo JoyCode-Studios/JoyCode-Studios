@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Ollie, founder of JoyCode Studios 👋
 
-<!--
-**JoyCode-Studios/JoyCode-Studios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building authentic platforms with real-time chat, modular design, and strong compliance roots.  
+Currently working on **JoyCode Studios** — a business focused on clarity, long lasting hardware, and user agency.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠 Skills
+- 
+- Firebase and Firestore
+- Advanced JavaScript / Python
+- Legal & compliance documentation
+- Modular UI/UX design
+
+## 🌱 Interests
+Exploring infrastructure as both engine and archive, refining workflows, and building platforms with identity.
+
+---
